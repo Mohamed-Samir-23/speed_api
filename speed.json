@@ -1,0 +1,29 @@
+{
+  "roads": [
+    {
+      "name": "Highway 101",
+      "type": "Highway",
+      "speed_limit_kmh": 120
+    },
+    {
+      "name": "Main Street",
+      "type": "Urban Road",
+      "speed_limit_kmh": 50
+    },
+    {
+      "name": "Elm Avenue",
+      "type": "Residential",
+      "speed_limit_kmh": 30
+    },
+    {
+      "name": "Route 66",
+      "type": "Rural Road",
+      "speed_limit_kmh": 90
+    },
+    {
+      "name": "Downtown Expressway",
+      "type": "Expressway",
+      "speed_limit_kmh": 80
+    }
+  ]
+}
