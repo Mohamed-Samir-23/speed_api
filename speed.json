@@ -3,7 +3,7 @@
     {
       "name": "Highway 101",
       "type": "Highway",
-      "speed_limit_kmh": 120
+      "speed_limit_kmh": 40
     },
     {
       "name": "Main Street",
